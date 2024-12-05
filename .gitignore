@@ -1,0 +1,16 @@
+
+CustomOCR/dataset/en_train_filtered/*
+CustomOCR/dataset/en_val/*
+LiscencePlateRecognition/dataset/en_train_filtered/*
+LiscencePlateRecognition/dataset/en_val/*
+TreeleafWorkFiles/3cb09b53-9a52-4037-9204-9ded694d52b0/*
+TreeleafWorkFiles/checkpoints/*
+TreeleafWorkFiles/dataset/en_train_filtered/*
+TreeleafWorkFiles/dataset/en_val/*
+TreeleafWorkFiles/GOT-OCR2.0*
+
+LiscencePlateRecognition/nepali_ocr_model.pth
+TreeleafWorkFiles/EasyOCR_Finetuning/models/nepali_license_plate_model.pth
+TreeleafWorkFiles/EasyOCR_Finetuning/craft_mlt_25k.pth
+TreeleafWorkFiles/ocr pre-existing model/hindi_ocr/best.pt
+TreeleafWorkFiles/ocr pre-existing model/kashu/model.h5
