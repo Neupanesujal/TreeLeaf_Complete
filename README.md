@@ -30,3 +30,9 @@ The models used in this project are available in the following Google Drive link
 1. Clone the repository:
    ```bash
    git clone https://github.com/Neupanesujal/TreeLeaf_Complete.git
+
+## Results
+
+The following image showcases the inference result from the Custom OCR system:
+
+![Inference Result](https://github.com/Neupanesujal/TreeLeaf_Complete/blob/main/CustomOCR/model_assets/inferenceResult.png)
